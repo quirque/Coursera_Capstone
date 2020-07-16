@@ -1,0 +1,5 @@
+# Standard .gitignore file to prevent superfluous files from being included in the repo
+
+# Jupyter files to ignore
+.ipynb_checkpoints
+
